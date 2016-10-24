@@ -4,6 +4,26 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+// $(document).ready(function) {
+// 	if(var waypoint = new Waypoint({
+// 	  element: document.getElementById('flux'),
+// 	  handler: function() {
+// 	    alert('works');
+// 	  }
+// 	})) {alert('test')};
+// };
+
+
+// $(document).ready(function) {
+// 	$('#waypoint').waypoint(function() {
+//     alert('You have scrolled to an entry.');
+// 		},
+// 		{
+// 		    offset: '100%'
+// 		});
+// }
+
+
 (function($) {
 
 	skel

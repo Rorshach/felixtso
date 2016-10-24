@@ -8,6 +8,7 @@ var methodOverride = require('method-override');
 
 // config files
 var db = require('./config/db');
+//TODO configure nodemodules path
 
 // set our port
 var port = process.env.PORT || 8080;
